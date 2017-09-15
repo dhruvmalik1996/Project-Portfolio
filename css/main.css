@@ -1,0 +1,83 @@
+/*initializing body variables*/
+body {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -ms-box-sizing: border-box;
+    box-sizing: border-box;
+    font-family: "Open Sans", sans-serif;
+    color: #676858;
+    font-weight: 300;
+}
+
+hr {
+    color: #7d97ad;    /*define color and border for horizontal bar*/
+    border-top: 100px solid;
+}
+
+.text-muted {
+    color: #808080;
+}
+
+.text-thin {
+    font-weight: 100;
+    text-align: right;
+}
+
+.container {       //css for container
+    margin: 0 auto;
+    max-width: 1200px;
+    width: 100%;
+}
+
+.row {      //defined row
+    width: 100%;
+    display: flex;
+}
+
+.col-mid-1 {
+    width: 8.33%;
+}
+
+.col-mid-2 {
+    width: 16.66%;
+}
+
+.col-mid-3 {
+    width: 25%;
+}
+
+.col-mid-4 {
+    width: 33.33%;
+}
+
+.col-mid-5 {
+    width: 41.66%;
+}
+
+.col-mid-6 {
+    width: 50%;
+}
+
+.col-mid-7 {
+    width: 58.33%;
+}
+
+.col-mid-8 {
+    width: 66.66%;
+}
+
+.col-mid-9 {
+    width: 75%;
+}
+
+.col-mid-10 {
+    width: 83.33%;
+}
+
+.col-mid-11 {
+    width: 91.66%;
+}
+
+.col-mid-12 {
+    width: 100%;
+}
